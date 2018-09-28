@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SmartHotel.Registration.Wcf/bin
+/SmartHotel.Registration/bin
+/SmartHotel.Registration/obj
+/packages
+bin
+obj
+.vs
+.usr
