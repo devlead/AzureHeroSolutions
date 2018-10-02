@@ -20,7 +20,7 @@ To modernize the application, it is followed a lift and shift approach to move i
 The application is the existing WebForms, WCF and Azure SQL Database pieces, as depicted below. This is a very traditional three-tire application, using Entity Framework to integrate with the data in the Azure SQL database, exposing it through a WCF service, which the WebForms application then interacts with.
 
    <p align="center">
-        <img src="images/arch-overview-1.png"/>
+        <img src="images/arch-overview-1.PNG"/>
     </p>
 
 The final step of the modernization is to add a Service Fabric Stateful service to store registration information that can later be retrieved by the WebForms app to show different registration KPIs. Data is stored using SF Reliable Collections and distributed in different service partitions.
