@@ -71,7 +71,9 @@ Replace the values and execute the following command in a Powershell console:
 ```
 Once the deployment is finished, the resources shown below should appear under your resource group in Azure Portal:
 
-![](Images/image1.png)
+<p align="center">
+    <img src="images/image1.png"/>
+</p>
 
 ## Exercise 1: Deploy lift and shift full framework apps locally
 -------------------------------------
