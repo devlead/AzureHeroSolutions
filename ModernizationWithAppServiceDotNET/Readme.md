@@ -1,4 +1,4 @@
-# App Modrnization with Azure App Services
+# App Modernization with Azure App Services
 
 ## Overview
 
